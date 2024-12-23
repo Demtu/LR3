@@ -42,8 +42,14 @@
 Ход работы:
 - Добавим новые оружия, которые отличаются от основного эквипа в игре. Добавим такие оружия как "Лазерная пушка" и "Миниган".
 - Запишем сколько "Выстрелов в ед. времени" может сделать то или иное оружие, запишем вероятность "Вероятность промаха в зависимости от расстояния". Формулой выведем все остальные нужные данные в таблицу "Вероятность пападания в процентах", "Средний Урон". Формулой наглядно напишем показатели палочками ( ||| ) какой урон имеет то или иное оружие "Damage".
-  - Сама таблица: https://docs.google.com/spreadsheets/d/1LiBnUzfTYnxiNbeSdKbJqKj_d43TpQbPUj1aUPPFyyk/edit?usp=sharing
-- Определите связанные функции. Функция модели: определяет модель линейной регрессии wx+b. Функция потерь: функция потерь среднеквадратичной ошибки. Функция оптимизации: метод градиентного спуска для нахождения частных производных w и b.
+  - Таблица: https://docs.google.com/spreadsheets/d/1LiBnUzfTYnxiNbeSdKbJqKj_d43TpQbPUj1aUPPFyyk/edit?usp=sharing
+![image](https://github.com/user-attachments/assets/e3673999-43f5-4df6-a741-c0e2cd1979be)
+![image](https://github.com/user-attachments/assets/56fab720-ed6b-4f3e-88c7-6b6cc20daa54)
+![image](https://github.com/user-attachments/assets/3e665ea9-c1a8-447c-b7b2-927842d7f68f)
+![image](https://github.com/user-attachments/assets/73b76050-b79c-4134-8224-f29c3a6c3082)
+![image](https://github.com/user-attachments/assets/bb09d48d-e81d-4711-86d4-e50535054677)
+
+
 
 
 ## Задание 2

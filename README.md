@@ -8,7 +8,7 @@
 | ------ | ------ | ------ |
 | Задание 1 | * | 60 |
 | Задание 2 | * | 20 |
-| Задание 3 | * | 20 |
+| Задание 3 | # | 20 |
 
 знак "*" - задание выполнено; знак "#" - задание не выполнено;
 
@@ -62,28 +62,15 @@
    - Средний урон:
      ![image](https://github.com/user-attachments/assets/177f0429-43bb-4523-ac06-cda3b032137c)
 
-
-## Задание 3
-### Какова роль параметра Lr? Ответьте на вопрос, приведите пример выполнения кода, который подтверждает ваш ответ. В качестве эксперимента можете изменить значение параметра.
-
-- Перечисленные в этом туториале действия могут быть выполнены запуском на исполнение скрипт-файла, доступного [в репозитории](https://github.com/Den1sovDm1triy/hfss-scripting/blob/main/ScreatingSphereInAEDT.py).
-- Для запуска скрипт-файла откройте Ansys Electronics Desktop. Перейдите во вкладку [Automation] - [Run Script] - [Выберите файл с именем ScreatingSphereInAEDT.py из репозитория].
-
+- Разберём пример разбора параметров оружия на "Лазерной пушке":
+  ![image](https://github.com/user-attachments/assets/698b7b64-17de-4b7e-bdfb-0369a6b99d1b)
+  ![image](https://github.com/user-attachments/assets/2b1326de-65bb-4b12-a06a-1de3784f6e6b)
+  ![image](https://github.com/user-attachments/assets/cd982ff2-6ccd-47f9-a92d-98830b20b3a7)
+  ![image](https://github.com/user-attachments/assets/985cb8fd-4e05-4494-87f3-bdb36262f033)
+  ![image](https://github.com/user-attachments/assets/520c1f29-d11b-4e64-a5ec-a0f562f2c9b5)
+  ![image](https://github.com/user-attachments/assets/829996b4-0443-4b88-bf34-d26dab775e9c)
 
 
 ## Выводы
 
-Абзац умных слов о том, что было сделано и что было узнано.
-
-| Plugin | README |
-| ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
-| GitHub | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
-
-## Powered by
-
-**BigDigital Team: Denisov | Fadeev | Panov**
+Разработали несколько видов нового оружия для игры СПАСТИ РТФ. Записали некоторые параметры в таблицу. Посоздавали диаграммы для них. Нашли СКО... Ну вообщем-то пытались соблюсти баланс, но его в данных оружиях нет. Для того, чтобы было честно, данные пухи должны быть дорогими/редкими. И должна быть проблема с патронами для них + разброс на миниган дичайший. 
